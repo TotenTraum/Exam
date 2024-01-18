@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                  name="Help Instance"
+                  start-page="Main.md">
+
+    <toc-element topic="Main.md">
+        <toc-element topic="Question1.md"/>
+        <toc-element topic="Question2.md"/>
+        <toc-element topic="Question3.md"/>
+        <toc-element topic="Question4.md"/>
+        <toc-element topic="Question5.md"/>
+        <toc-element topic="Question6.md"/>
+        <toc-element topic="Question7.md"/>
+        <toc-element topic="Question8.md"/>
+        <toc-element topic="Question9.md"/>
+        <toc-element topic="Question10.md"/>
+        <toc-element topic="Question11.md"/>
+        <toc-element topic="Question12.md"/>
+        <toc-element topic="Question13.md"/>
+        <toc-element topic="Question14.md"/>
+        <toc-element topic="Question15.md"/>
+        <toc-element topic="Question16.md"/>
+        <toc-element topic="Question17.md"/>
+        <toc-element topic="Question18.md"/>
+        <toc-element topic="Question19.md"/>
+        <toc-element topic="Question20.md"/>
+        <toc-element topic="Question21.md"/>
+        <toc-element topic="Question22.md"/>
+        <toc-element topic="Question23.md"/>
+        <toc-element topic="Question24.md"/>
+        <toc-element topic="Question25.md"/>
+        <toc-element topic="Question26_1.md"/>
+        <toc-element topic="Question26.md"/>
+        <toc-element topic="Question27.md"/>
+        <toc-element topic="Question28.md"/>
+        <toc-element topic="Question29.md"/>
+        <toc-element topic="Question30.md"/>
+        <toc-element topic="Question31.md"/>
+        <toc-element topic="Question32.md"/>
+        <toc-element topic="Question-34.md"/>
+        <toc-element topic="Question-35.md"/>
+        <toc-element topic="Question-36.md"/>
+        <toc-element topic="Question-37.md"/>
+        <toc-element topic="Question-38.md"/>
+        <toc-element topic="Question-39.md"/>
+        <toc-element topic="Question-40.md"/>
+        <toc-element topic="Question-41.md"/>
+        <toc-element topic="Question-42.md"/>
+        <toc-element topic="Question-43.md"/>
+        <toc-element topic="Question-44.md"/>
+        <toc-element topic="Question-45.md"/>
+        <toc-element topic="Question-46.md"/>
+        <toc-element topic="Question-47.md"/>
+    </toc-element>
+</instance-profile>
